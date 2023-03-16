@@ -77,7 +77,6 @@ const Intro = () => {
           <FloatinDiv img={education} text1="Student in" text2="Singapore Polytechnic" />
         </motion.div>
 
-        <div className="blur" style={{ background: "rgb(238 210 255)" }}></div>
         <div
           className="blur"
           style={{
